@@ -40,3 +40,8 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+### Output Files
+
+* docker_out.txt contains docker output that was requested.
+* kubernetes_out.txt contains Kubernetes output that was requested.
